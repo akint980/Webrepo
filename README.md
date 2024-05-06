@@ -1,2 +1,2 @@
 # Webrepo
-creating test repo for demo use
+used in web development
